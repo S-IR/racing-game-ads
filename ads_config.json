@@ -1,0 +1,10 @@
+{
+  "scene1": {
+    "board1": "https://yourusername.github.io/racing-game-ads/ads/coca_cola_tex.png",
+    "board2": "https://yourusername.github.io/racing-game-ads/ads/pepsi_tex.png"
+  },
+  "scene2": {
+    "board1": "https://yourusername.github.io/racing-game-ads/ads/redbull_tex.png",
+    "board2": "https://yourusername.github.io/racing-game-ads/ads/energy_drink_tex.png"
+  }
+}
