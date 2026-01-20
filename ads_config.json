@@ -1,10 +1,18 @@
 {
-  "scene1": {
-    "board1": "https://s-ir.github.io/racing-game-ads/ad.png",
-    "board2": "https://s-ir.github.io/racing-game-ads/ad.png"
-  },
-  "scene2": {
-    "board1": "https://s-ir.github.io/racing-game-ads/ad.png",
-    "board2": "https://s-ir.github.io/racing-game-ads/ad.png"
-  }
+  "scenes": [
+    {
+      "name": "scene1",
+      "ads": [
+        "https://s-ir.github.io/racing-game-ads/ad.png",
+        "https://s-ir.github.io/racing-game-ads/ad.png"
+      ]
+    },
+    {
+      "name": "scene2",
+      "ads": [
+        "https://s-ir.github.io/racing-game-ads/ad.png",
+        "https://s-ir.github.io/racing-game-ads/ad.png"
+      ]
+    }
+  ]
 }
